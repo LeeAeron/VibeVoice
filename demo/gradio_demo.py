@@ -1387,7 +1387,7 @@ def convert_to_16_bit_wav(data):
 def download_voice_list():
     """Download the voice list file from the server."""
     try:
-        url = "https://huggingface.co/datasets/LeeAeron/VobeVoicePrivate/resolve/main/download_voices.txt?download=true"
+        url = "https://huggingface.co/datasets/LeeAeron/VibeVoice/resolve/main/download_voices.txt?download=true"
         demo_dir = os.path.join(os.path.dirname(__file__))
         save_path = os.path.join(demo_dir, "download_voices.txt")
         
