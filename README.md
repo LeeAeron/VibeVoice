@@ -55,8 +55,8 @@ This project provided with only *.bat installer/re-installer/starter/updater fil
 ## 📺 Credits
 
 * [LeeAeron](https://github.com/LeeAeron) — additional code, modding, reworking, repository, Hugginface space, features, installer/launcher, reference audios.
-* [NerualDreming](@nerual_dreming) — projecting, first installler version
-* [Slait](@ruweb24) - Q8 base code support, help with additional code
+* [NerualDreming](t.me/nerual_dreming) — projecting, first installler version
+* [Slait](t.me/ruweb24) - Q8 base code support, help with additional code
 
 
 ## 📝 License
