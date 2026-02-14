@@ -1,3 +1,31 @@
+Metadata-Version: 2.4
+Name: vibevoice
+Version: 0.0.2
+Summary: A model for speech generation with an AR + diffusion architecture.
+Author-email: vibevoice team <vibepod@microsoft.com>
+Project-URL: Homepage, https://github.com/LeeAeron/VibeVoice
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: accelerate==1.6.0
+Requires-Dist: transformers==4.51.3
+Requires-Dist: llvmlite>=0.40.0
+Requires-Dist: numba>=0.57.0
+Requires-Dist: diffusers
+Requires-Dist: tqdm
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: librosa
+Requires-Dist: ml-collections
+Requires-Dist: absl-py
+Requires-Dist: gradio==5.49.1
+Requires-Dist: av
+Requires-Dist: aiortc
+Dynamic: license-file
+
 # 🚀 VibeVoice: A Frontier Long Conversational Text-to-Speech Engine, Portable Version
 ![VibeVoice](img/VibeVoice.png)
 
