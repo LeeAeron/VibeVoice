@@ -1368,15 +1368,7 @@ def create_demo_interface(demo_instance: VibeVoiceDemo):
         """,
         elem_classes="generation-card",
         )
-        
-        gr.Markdown("""
-        ### ℹ️ **Authors:**
-        <a href=@li_aeron style="color: blue;"><a href="https://t.me/li_aeron" target="_blank" style="color: #9932CC;"> 😈 LeeAeron</a></p>
-        <a href=@nerual_dreming style="color: blue;"><a href="https://t.me/neuroport" target="_blank" style="color: #9932CC;">👾 NerualDreming</a></p>
-        <a href=@ruweb24 style="color: blue;"><a href="https://t.me/ruweb24" target="_blank" style="color: #9932CC;">😈 Slait</a></p>
-        """,
-        elem_classes="generation-card",
-        )
+
 
     return interface
 
