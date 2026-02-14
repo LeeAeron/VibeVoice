@@ -36,9 +36,9 @@ This project provided with only *.bat installer/re-installer/starter/updater fil
 
 - Download the VibeVoice .bat installer for Windows in [Releases](https://github.com/LeeAeron/VibeVoice/releases).
 - Place the BAT-file in any folder in the root of any partition with a short Latin name without spaces or special characters and run it.
-- Select INSTALL (2) entry. Choose desired Torch version to fit your GPU model. .bat file will download, unpack and configure all needed environment.
-- After installing, select START (1). .bat will launch Browser, and loads necessary files, models.
-- UPDATE (3) option updates project from this Git for new version (if it will be).
+- Select INSTALL (3) entry. Choose desired Torch version to fit your GPU model. .bat file will download, unpack and configure all needed environment.
+- After installing, select START (1) or START (2) depending mode you need. .bat will launch Browser, and loads necessary files, models (at forst time).
+- UPDATE (4) option updates project from this Git for new version (if it will be).
 
 
 ## ⚙️ New Features:
