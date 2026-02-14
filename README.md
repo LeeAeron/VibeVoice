@@ -1,7 +1,7 @@
 # 🚀 VibeVoice: A Frontier Long Conversational Text-to-Speech Engine, Portable Version
 ![VibeVoice](img/VibeVoice.png)
 
-[![Release](https://img.shields.io/github/release/LeeAeron/F5-TTSx.svg)](https://github.com/LeeAeron/VibeVoice/releases/latest)
+[![Release](https://img.shields.io/github/release/LeeAeron/VibeVoice.svg)](https://github.com/LeeAeron/VibeVoice/releases/latest)
 
 
 ## 🔧 About
