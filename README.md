@@ -43,12 +43,13 @@ This project provided with only *.bat installer/re-installer/starter/updater fil
 
 ## ⚙️ New Features:
 - added VibeVoice Q8 model. Works with supported GPUs (RTX20xx-50xx)
-- added Ruacent stress marks setup/processing for russian language
+- added Ruacent stress marks setup/processing button for russian language
 - added additional voices download option (choosable)
 - added pre-uploaded reference voice pack (838 voices)
-- added 4Bit on-the-fly quantize mode to run VibeVoice Large model on PCs with LowVRAM and 32GB+ RAM
+- added INT4 (4Bit) on-the-fly quantize mode to run VibeVoice Large model on PCs with LowVRAM and 32GB+ RAM
 - added GPU auto-detection and acceleration auto-select (SDPA/FlashAttention2)
 - added autoplay selection
+- added random seed generations
 
 
 ## 📺 Credits
